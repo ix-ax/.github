@@ -6,7 +6,7 @@ Here you will find a series of tools and libraries to work with a new platform f
 The projects in this organization are formed by a team of developers and industrial automation engineers from [MTS](https://www.mts.sk/en/). 
 We are willing to share the experience with the community of our colleagues around the globe and, at the same time, invite those interested in participating.
 
-**Since SIMATIC AX is in limited release read the following disclaimer:**
+**SIMATIC AX IS IN LIMITED RELEASE PLEASE READ THE FOLLOWING:**
 
 **It is necessary to have a valid license for SIMATIC AX in order to use IX!**  
 SIMATIC AX is currently in a limited sales release in selected European countries only. You will need to request access from the AX team which will check if your use case is suitable for the current state of the product. The first step to getting the approval is contacting your local SIEMENS sales representative or writing an email to [simatic-ax@siemens.com](mailto:simatic-ax@siemens.com?subject=Request%20for%20access%20|%20SIMATIC%20AX%20for%20IX).
