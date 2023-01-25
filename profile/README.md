@@ -1,6 +1,4 @@
-[wip]
-
-![](pics/banner_wider.png)
+![](./pics/banner_wider.png)
 
 # Welcome to IX organization
 
@@ -15,4 +13,4 @@ We are willing to share the experience with a like-minded community of automatio
 SIMATIC AX is currently in a limited sales release in selected European countries only. You will need to request access from the AX team which will check if your use case is suitable for the current state of the product. The first step to getting the approval is contacting your local SIEMENS sales representative or writing an email to [simatic-ax@siemens.com](mailto:simatic-ax@siemens.com?subject=Request%20for%20access%20|%20SIMATIC%20AX%20for%20IX).
 
 
-![](pics/mts_logo-header.svg)
+![](./pics/mts_logo-header.svg)
