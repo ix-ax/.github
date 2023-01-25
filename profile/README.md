@@ -1,4 +1,4 @@
-![banner](pics/banner_wider.png)
+![banner](pics\banner_wider.png)
 
 # Welcome to IX organization
 
