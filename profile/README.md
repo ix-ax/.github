@@ -4,7 +4,7 @@
 
 Here you will find a series of tools and libraries to work with a new platform from Siemens called SIMATIC AX. IX easily binds the PLC world with higher-level frameworks and languages. 
 
-The projects in this organization are formed by a team of developers and industrial automation engineers from [MTS](https://www.mts.sk/en/). 
+The projects in this organization are formed by a [team of software developers and industrial automation engineers](https://github.com/orgs/ix-ax/teams/mts) from [MTS](https://www.mts.sk/en/). 
 We are willing to share the experience with a like-minded community of automation engineers around the globe and, at the same time, invite those interested in participating.
 
 **Since SIMATIC AX is in limited release please be aware of the following:**
