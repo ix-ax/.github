@@ -12,5 +12,6 @@ We are willing to share the experience with a like-minded community of automatio
 **It is necessary to have a valid license for SIMATIC AX in order to use IX!**  
 SIMATIC AX is currently in a limited sales release in selected European countries only. You will need to request access from the AX team which will check if your use case is suitable for the current state of the product. The first step to getting the approval is contacting your local SIEMENS sales representative or writing an email to [simatic-ax@siemens.com](mailto:simatic-ax@siemens.com?subject=Request%20for%20access%20|%20SIMATIC%20AX%20for%20IX).
 
-
-![mts](https://github.com/ix-ax/.github/blob/main/profile/pics/mts_logo-header.svg)
+  <a href="https://www.mts.sk/en">
+      <img src="https://github.com/ix-ax/.github/blob/main/profile/pics/mts_logo-header.svg" width="300"/>
+  </a>
