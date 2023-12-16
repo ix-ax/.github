@@ -2,7 +2,7 @@
 
 # Welcome Aboard IX Organization
 
-You've entered a world rich with libraries and innovative tools designed to interact seamlessly with the new, state-of-the-art platform from Siemens - SIMATIC AX.
+We develop innovative tools designed to interact seamlessly with the new, state-of-the-art platform from Siemens - SIMATIC AX.
 
 Key repositories:
 
