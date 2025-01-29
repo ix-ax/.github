@@ -1,5 +1,8 @@
-![banner](https://github.com/ix-ax/.github/blob/main/profile/pics/banner_wider.png)
+<!--(url)![banner](https://github.com/ix-ax/.github/blob/main/profile/pics/banner_wider.png)-->
 
+# Repositories from this organization have been moved under [Inxton](https://github.com/Inxton) organization, where they will remain open sourced, developed, and mantainded by the same team of developers.
+
+<!--
 # Welcome Aboard IX Organization
 
 We develop innovative tools designed to interact seamlessly with the new, state-of-the-art platform from Siemens - SIMATIC AX.
@@ -19,3 +22,4 @@ SIMATIC AX is currently in a limited sales release in selected European countrie
   <a href="https://www.mts.sk/en">
       <img src="https://github.com/ix-ax/.github/blob/main/profile/pics/mts_logo-header.svg" width="300"/>
   </a>
+-->  
